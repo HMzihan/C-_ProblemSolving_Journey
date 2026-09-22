@@ -1,0 +1,7 @@
+D:\Loc - C#\DeleteingIndex\DeleteingIndex\bin\Debug\DeleteingIndex.exe.config
+D:\Loc - C#\DeleteingIndex\DeleteingIndex\bin\Debug\DeleteingIndex.exe
+D:\Loc - C#\DeleteingIndex\DeleteingIndex\bin\Debug\DeleteingIndex.pdb
+D:\Loc - C#\DeleteingIndex\DeleteingIndex\obj\Debug\DeleteingIndex.csproj.AssemblyReference.cache
+D:\Loc - C#\DeleteingIndex\DeleteingIndex\obj\Debug\DeleteingIndex.csproj.CoreCompileInputs.cache
+D:\Loc - C#\DeleteingIndex\DeleteingIndex\obj\Debug\DeleteingIndex.exe
+D:\Loc - C#\DeleteingIndex\DeleteingIndex\obj\Debug\DeleteingIndex.pdb
