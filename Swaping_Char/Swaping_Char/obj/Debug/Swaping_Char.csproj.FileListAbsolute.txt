@@ -1,0 +1,7 @@
+D:\Loc - C#\Swaping_Char\Swaping_Char\bin\Debug\Swaping_Char.exe.config
+D:\Loc - C#\Swaping_Char\Swaping_Char\bin\Debug\Swaping_Char.exe
+D:\Loc - C#\Swaping_Char\Swaping_Char\bin\Debug\Swaping_Char.pdb
+D:\Loc - C#\Swaping_Char\Swaping_Char\obj\Debug\Swaping_Char.csproj.AssemblyReference.cache
+D:\Loc - C#\Swaping_Char\Swaping_Char\obj\Debug\Swaping_Char.csproj.CoreCompileInputs.cache
+D:\Loc - C#\Swaping_Char\Swaping_Char\obj\Debug\Swaping_Char.exe
+D:\Loc - C#\Swaping_Char\Swaping_Char\obj\Debug\Swaping_Char.pdb
